@@ -3,7 +3,7 @@ Loyolites here you can calculate your GPA of your respective semester by enterin
 
 This is a desktop GUI window developed using tkinter of Python.
 
-This url=http://202.53.11.226:8080/lastudentportal/online/report/onlineResultNew.jsp will show all our previous semester result.I used requests modules get method to get the html code .With the help of BeautifulSoup class of bs4 library I could view the html code in a structured way and reterive the required information from the data present in the html.
+This url=http://202.53.11.226:8080/lastudentportal/online/report/onlineResultNew.jsp (no more available) will show all our previous semester result.I used requests modules get method to get the html code .With the help of BeautifulSoup class of bs4 library I could view the html code in a structured way and reterive the required information from the data present in the html.
 
 Here are the snippets of the desktop GUI window:
 
